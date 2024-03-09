@@ -17,8 +17,11 @@ Model Evaluation:
 The trained artificial neural network model was evaluated on the test dataset. The obtained results are as follows:
 
 Test Accuracy: 45.7%
+
 Test Precision: 45.6%
+
 Test Recall: 99.5%
+
 Test F1: 0.625%
 
 Results and Discussion:
