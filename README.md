@@ -1,5 +1,7 @@
-# Bank Credit Risk Prediction with Deep Learning
- 
+#   Bank Credit Risk Prediction with Deep Learning
+
+![Credit Risk](https://github.com/melisk12/Bank_Credit_Risk_Prediction_with_Deep_Learning/assets/129781468/0b7f017e-a5a5-4036-bf46-d5c4217ef5b7)
+
 Project Report: Evaluation of Artificial Neural Network for Credit Risk Prediction
 
 Introduction:
